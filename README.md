@@ -1,1 +1,0 @@
-# simplifiedPython.github.io
